@@ -98,5 +98,5 @@ Siga as instruções oficiais do SDK:
 
 - [Gabriel Silva Sampaio]
 
-- Video demonstração [https\://www\.dropbox.com/scl/fi/fsm6ifvfy36swqbnuc5j8/2025-02-04-08-52-05.mkv?rlkey=wj56uedr1fv41a4fgmgyuthkd&st=s6y0regg&dl=0]
+- Video demonstração [https://www.dropbox.com/scl/fi/csfqedsyagpq4axpxkdq8/2025-02-11-23-48-55.mkv?rlkey=n890hmlnajgrf7wzzmij55167&st=k4zfdgk5&dl=0]
 
